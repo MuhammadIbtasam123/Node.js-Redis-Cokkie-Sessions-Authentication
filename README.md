@@ -1,1 +1,1 @@
-# Node.js-Redis-Cokkie-Sessions-Authentication
+# Node.js-Redis-Cookie-Sessions-Authentication
